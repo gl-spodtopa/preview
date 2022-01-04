@@ -25,7 +25,7 @@
     },
     "localization": {
       "en": {
-        "$ref": "https://qa-gw.cds.amcn.com/config-cn/api/v1/amcn-tve-settings-ap/public/web/amcplus/localization/account/en.json"
+        "$ref": "https://gl-spodtopa.github.io/preview/en.json"
       }
     },
     "analytics": {
