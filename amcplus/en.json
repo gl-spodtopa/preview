@@ -184,6 +184,25 @@
       "updatedSubhead": "Thanks for confirming your new email, {{email}}. Now let’s get back to streaming.",
       "start": "start watching now",
       "help": "Need help? Contact us"
+    },
+    "footer": {
+      "copyright": "Copyright © 2010-{{date}} AMC Network Entertainment LLC. All rights reserved.",
+      "advertise": "Advertise",
+      "advertiseLink": "https://www.amcnetworks.com/ad-sales/",
+      "press": "Press",
+      "careers": "Careers",
+      "privacy": "Privacy",
+      "cookies": "Cookies",
+      "terms&conditions": "Terms & Conditions",
+      "doNotSell": "Do Not Sell My Personal Information",
+      "link": {
+        "advertise": "https://www.amcnetworks.com/ad-sales/",
+        "press": "https://www.amcnetworks.com/news/",
+        "careers": "https://www.amcnetworks.com/careers/",
+        "privacy": "https://www.amcplus.com/privacy",
+        "cookies": "https://www.amcplus.com/cookies",
+        "terms&conditions": "https://www.amcplus.com/terms"
+      }
     }
   }
 }
